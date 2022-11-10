@@ -76,8 +76,8 @@ ul {
    list-style-type: none;
    font-weight: 700;
    display: flex;
-   padding-left: 4px;
-   font-size: 25px;
+   padding-left: 3px;
+   font-size: 21px;
    margin: 25px   
 }
 
@@ -98,6 +98,7 @@ ul {
    font-size: 13px;
    color: hsl(227, 10%, 46%);
    letter-spacing: 2px;
+   
 }
  
  .attribution { font-size: 11px; text-align: center; }
